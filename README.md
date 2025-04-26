@@ -10,15 +10,9 @@ This repository contains configuration scripts and utilities used for automating
 
 ## 🛠 Folder Structure
 
-et_devsecops_myscript_config/ 
-├── scripts/ 
-│ 
-├── config_script.py 
-│ 
-├── data_fetch.py 
-└── configs/ 
-└── settings.yaml
-
+```
+et_devsecops_myscript_config/ ├── scripts/ │ ├── config_script.py │ ├── data_fetch.py └── configs/ └── settings.yaml
+```
 
 ## 🚀 How It Works
 
